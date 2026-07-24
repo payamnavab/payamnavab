@@ -49,52 +49,6 @@ I build modern, scalable, and high-performance web applications with a strong fo
 
 # 🚀 Featured Project
 
-## 🛒 KalaMall
-
-A modern E-Commerce platform inspired by Digikala.
-
-### Features
-
-* Authentication
-* Admin Dashboard
-* Product Management
-* Media Management
-* Categories & Brands
-* Responsive Design
-* Image Upload
-* Clean Architecture
-* REST API
-
-### Tech
-
-* Next.js
-* React
-* TypeScript
-* Prisma
-* PostgreSQL
-* Better Auth
-* Tailwind CSS
-* TanStack Query
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=payamnavab\&show_icons=true\&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=payamnavab\&theme=tokyonight)
-
----
-
-# 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payamnavab\&layout=compact\&theme=tokyonight)
-
----
 
 # 📫 Contact
 
